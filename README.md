@@ -7,7 +7,7 @@
 ###
 
 <h3 align="left">About me -</h3>
-<p align="left">✨ Creating bugs since 2019.<br>🔭 I'm currently learning C.<br>🎯 Goals: become an efficient programmer and pursue Electrical & Electronics Engineering in the future.<br>🎲 Fun fact: ElectroBOOM is the reason I chose my career path.<br>💀 my coding skills are kinda mid.</p>
+<p align="left">✨ Creating bugs since 2019.<br>🔭 I'm currently learning C.<br>🎯 Goals: Pursue Electrical & Electronics Engineering in the future.<br>🎲 Fun fact: ElectroBOOM is the reason I chose my career path.<br>💀 my coding skills are kinda mid.</p>
 
 ###
 
