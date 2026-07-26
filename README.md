@@ -36,5 +36,3 @@
 <div align="left">
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 </div>
-
-###
