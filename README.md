@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**sk1bidib0y/sk1bidib0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm SkibidiBoy, a hobbyist of anything that's mildly interesting.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">About me -</h3>
+<p align="left">✨ Creating bugs since 2019.<br>🔭 I'm currently learning C.<br>🎯 Goals: become an efficient programmer and pursue Electrical & Electronics Engineering in the future.<br>🎲 Fun fact: ElectroBOOM is the reason I chose my career path.<br>💀 my coding skills are kinda mid.</p>
+
+###
+
+<h3 align="left">My Tech Stack -</h3>
+
+
+<div align="left">
+  <img height="50" src="https://skillicons.dev/icons?i=html,css,md,py,c"  />
+</div>
+
+<h3 align="left">The software I use -</h3>
+
+<div align="left">
+  <img height="50" src="https://skillicons.dev/icons?i=discord,github,blender,vscode,obsidian,windows,linux"  />
+</div>
+
+###
+
+<h3 align="left">My github statistics -</h3>
+<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=sk1bidib0y" alt="Skibidiboy's Github Statistics" />
+</div>
+
+<h3 align="left">Here's a joke to read!</h3>
+
+<div align="left">
+  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+</div>
+
+###
