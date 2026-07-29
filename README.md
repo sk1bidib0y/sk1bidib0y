@@ -21,7 +21,7 @@
 <h3 align="left">The software I use -</h3>
 
 <div align="left">
-  <img height="50" src="https://skillicons.dev/icons?i=discord,github,blender,vscode,obsidian,windows,linux"  />
+  <img height="50" src="https://skillicons.dev/icons?i=github,vscode,obsidian,windows,linux"  />
 </div>
 
 ###
