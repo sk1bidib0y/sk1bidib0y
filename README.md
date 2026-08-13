@@ -26,10 +26,12 @@
 
 ###
 
+
+
 <h3 align="left">My github statistics -</h3>
 
 <div align="left">
-  <img src="(https://github-stats-extended.vercel.app/api/top-langs?username=sk1bidib0y&layout=pie&langs_count=5&theme=transparent" alt="Skibidiboy's Github Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sk1bidib0y&layout=pie&langs_count=5&theme=transparent" alt="Skibidiboy's Github Statistics" />
 </div>
 
 <div align="left">
